@@ -17,9 +17,7 @@ Looking ahead to the upcoming Premier League season, the next version of this mo
 
 ## 🧠 Technologies Used
 
-- **Python 3.8+**
 - **pandas** – for data wrangling and analysis
 - **os** – for dynamic file path management
 - *(Optional: Add scikit-learn, NumPy, or other libraries if used)*
 
-## 📁 Project Structure
